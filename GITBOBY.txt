@@ -1,0 +1,3 @@
+i am on my way to passing the kampus merdeka final exam
+i am beginning to understand Git!
+This text was added in the boby branch
